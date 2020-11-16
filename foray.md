@@ -1,0 +1,19 @@
+# my foray into posting on the public internet
+
+Hello world.
+
+I've tried to start a blog a few times and they've all failed. In an effort to have this one not be one post, and then disappear forever, I'd like to try and diagnose what went wrong previously.
+
+First, I have to admit I'm a perfectionist and not the good kind. The kind that prevents myself from finishing things because I have much grander goals than I can currently accomplish. For example one of my first attempts to start a blog was using Github pages with Jekyll. Now those are both great tools, but I had this idea that might blog had to be unique in certain ways that those tools wouldn't allow, and hence I wrote one post (about perfectionism funnily enough) and then never came back to it because it felt like it didn't fit me. I've had a hard time for a long time with taking action when something at the base doesn't feel right. Even when learning new things I find it hard to build on knowledge when my foundation doesn't feel solid. This has sometimes resulted in race to the bottom, and at times made me consider studying logic/set theory. That said, sometimes it's totally fine to push forward without everything being crystal clear. In fact that's already what we do most of the time! From this perspective I think this site can be viewed as an exercise in tamping out some of my perfectionist tendencies.
+
+Second reason previous attempts at blogging have failed: I feel like I don't have that much to say. At least stuff that hasn't already been said on the internet. So if that's the case why _am_ I here? Well I guess this could be considered an exercise in self-esteem and confidence building. Even if no one reads this, I'll feel like at least I made an effort, and at least I did the thing I've thought a lot about doing.
+
+## motivation
+
+Since undergrad, where I let a lot of nerdy friends who introduced me to the internet beyond facebook, email, stackexchange, and youtube, it's intrigued me how cozy the internet can feel. People's personal webpages, and all sorts of funky content people generate for fun is simply amazing. I always wanted to be more involved in communities like that, but never had the technical knowledge to get into having my own website. Fast forward to graduating college and I somehow managed to land a developer internship. That introduced me to even more of what the web is capable of, but even though I had learned about HTTP/SSL, javascript and all sorts of things fundamental to the internet, I still didn't feel like I belonged in some sense. That might sound strange, especially if you know I'm a white guy (and geez is the internet and it's communities filled with white guys), but everyone I was seeing was _so_ confident. Whether it was technical articles about setting up reverse proxies, or opinions on politics, everyone on the internet seemed like they were trying to win arguments, and not engage with anyone. I think that was the reason I felt like I didn't belong. And it wasn't a massive like "you don't belong here" feeling, but more like "I don't talk like that, and hence I won't belong" feeling.
+
+Digressing, what I'm getting at here is that I always wanted to see people who were more uncertain about things on the internet. This shouldn't be a space only for those who think they know what they're talking about (because a lot of the time, maybe they don't, idk).
+
+Also, now that I'm in grad school, something _feels_ different. As a junior developer, I didn't think people would care much about what I had to say, but maybe now that's different? I'm not sure that really matters though because I'm not here to write for huge audiences. Hopefully just a few.
+
+Anyway, this has been fun writing, and for that it's been totally worth it. I'm hoping this won't be the only post this time around. I already have a few ideas for posts I want to write, so hoping that keeps me going.
