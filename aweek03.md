@@ -23,4 +23,4 @@ Deleting more data. I also had my annual review and got a promotion from Associa
 - [AMS Open Math Notes](https://www.ams.org/open-math-notes)
 - [glit.sh](https://glit.sh/)
 - [Categorification of Fourier Theory](https://vid.mint.lgbt/watch?v=w3f8KEcv4RE) (this a fabulous talk that I watched during my undergrad and probably understood very little of, but watching it again I understand most of the first two sections now. Fun to see that progress.)
-- [OPINION: What math class and police brutality have in common](https://hechingerreport.org/opinion-what-math-class-and-police-brutality-have-in-common/) (Lot's of good references in this article
+- [OPINION: What math class and police brutality have in common](https://hechingerreport.org/opinion-what-math-class-and-police-brutality-have-in-common/) (Lot's of good references in this article)
